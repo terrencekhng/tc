@@ -20,7 +20,7 @@ string EllysSortingTrimmer::getMin(string S, int L) {
 
 int main() {
   class EllysSortingTrimmer test;
-  cout << test.getMin("ESPRIT", 3) << endl;
+  cout << test.getMin("BBBAAAA", 4) << endl;
 
   return 0;
 }
